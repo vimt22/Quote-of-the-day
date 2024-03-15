@@ -6,7 +6,7 @@ export const APP_INFO: AppInfo = {
   title: 'Quote of the day',
   description: 'Write A Quote So I Can Read It In The Morning To Motivate Myself To Live A Better Life.',
   copyright: 'Revolxa Inc',
-  privacy_policy: 'https://myappterms.com/EF5Y2Z/1/en',
+  privacy_policy: 'https://myappterms.com/8RNC8K/1/en',
   default_language: 'en-US',
 }
 
